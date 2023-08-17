@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello This is a file
 =======
 This is a file in master
 >>>>>>> 8f048c0 (editing a file in master)
+=======
+
+This is a file in master
+========================
+This is a file in branch2
+>>>>>>> 2463aa0b990d75f8f4695988660be72123b1ccdf
